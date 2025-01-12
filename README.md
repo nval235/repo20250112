@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Java-Beginner-Projects
 Explore a variety of simple, hands-on Java projects ideal for beginners. Sharpen your coding skills while creating command-line applications, games, and practical tools in Java. Perfect for those new to programming or looking to learn Java.
 
@@ -32,3 +33,7 @@ Contributions are welcome! If you want to contribute to this project, please fol
 6. Submit a pull request (Add a screenshot of the command line output of the project to the pull request message).
 
 Thanks to all contributors for their valuable contributions to this project. ❤️💻🚀
+=======
+# repo20250112
+20250112 repo
+>>>>>>> origin/branch20250112
