@@ -12,7 +12,7 @@ public class ExpenseTracker {
         Map<String, List<Double>> expenses = new HashMap<>();
 
         while (true) {
-            System.out.println("Expense Tracker Menu:");
+            System.out.println("Expense Tracker Menu !!:");
             System.out.println("1. Record an expense");
             System.out.println("2. View expenses by category");
             System.out.println("3. Calculate total expenses by category");
@@ -70,5 +70,5 @@ public class ExpenseTracker {
             double total = categoryExpenses.stream().mapToDouble(Double::doubleValue).sum();
             System.out.println(category + ": " + total);
         }
-    } 
+    }
 }
